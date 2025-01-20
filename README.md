@@ -4,7 +4,7 @@
 
 Official repository of the ICPR 2024 paper "DoubleViT: Pushing transformers towards the end because of convolutions"
 
-[Paper](https://link.springer.com/chapter/10.1007/978-3-031-78186-5_11) | [Poster](https://github.com/mahendran-narayanan/Double-ViT/docs/icpr24_poster.pdf)
+[Paper](https://link.springer.com/chapter/10.1007/978-3-031-78186-5_11) | [Poster](https://github.com/mahendran-narayanan/Double-ViT/blob/main/docs/icpr24_poster.pdf)
 
 Code contains the DoubleViT model with the CIFAR-10 dataset as example.
 
@@ -16,7 +16,7 @@ Vision transformers have outperformed convolutional networks and dominate the fi
 
 ## Architecture
 
-![Architecture](https://github.com/mahendran-narayanan/Double-ViT/docs/arch_1.svg)
+![Architecture](https://github.com/mahendran-narayanan/Double-ViT/blob/main/docs/arch_1.svg)
 
 
 ## Citation
